@@ -1,0 +1,13 @@
+0 - To open a file with Emacs press ctrl + x(C-x), then ctrl + f(C-f), then enter the file name
+1 - To save press C-x, then C-s, if the first time then enter the file name
+2 - To cut the line place the cursor at the beggining of the line then press C-k
+3 - To paste press C-y
+5 - To undo press C-/ or C-x u
+6 - To quit Emacs press C-x the C-c
+Vi
+7 - To insert text before the cursor press i, to add text after the cursor press a
+8 - To delete use dd to delete and cut a line
+10 - To undo press u
+11 - To quit Vi type :q! and press Enter
+12 - To move the cursor to the start of the current line press 0
+13 - To move the cursor to the end of the line press $
