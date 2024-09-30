@@ -5,7 +5,7 @@
 5 - To undo press C-/ or C-x u
 6 - To quit Emacs press C-x the C-c
 Vi
-7 - To insert text before the cursor press i, to add text after the cursor press a
+7 - To insert text before the cursor press P, to add text after the cursor press p
 8 - To delete use dd to delete and cut a line
 10 - To undo press u
 11 - To quit Vi type :q! and press Enter
